@@ -1,0 +1,4 @@
+<servlet-mapping>
+    <servlet-name>io.github.po4yka.links.RestApplication</servlet-name>
+    <url-pattern>/*</url-pattern>
+</servlet-mapping>
