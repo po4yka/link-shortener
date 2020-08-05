@@ -4,6 +4,10 @@
 
 Link shortener server with REST API using JAX-RS and MongoDB 3.4.
 
+### Source
+
+Run `mvn package clean compile` for getting ready `.war` file.
+
 ### TomEE start/stop
 
 Start:
